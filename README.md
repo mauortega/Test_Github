@@ -1,2 +1,4 @@
 # Test_Github
-Hello_World
+
+Test_Github é sobre um treinamento que estou iniciando, sobre como trabalhar com GitHub.
+
